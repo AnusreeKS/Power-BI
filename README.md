@@ -21,3 +21,18 @@ Inserted a custom merged column Region1 combining City and Country (Just to uise
 Split the Column Person in table People into Person - First Name and Person - Last Name (Just to use the function)
 
 Sorted the Order table based on Customer Name
+
+
+## Assignment 2 - Basic DAX Operations
+
+In the second PowerBI assignment, basic DAX operations such as creating calculated tables and calculated measures are done.
+
+### Basic DAX operations done are :
+
+Basic Data Cleaning
+
+Created calculated tables to consolidate sales details across categories, sub categories, market, regions etc.
+
+Created calculated measures such as Total Sales, Total Profit, Total Quantity Sold, Avg No of Days to Ship etc for easy visualisation of key performance indicators for sales analysis.
+
+Created visualisation of certain data with Pie Charts, Donut Charts, Bar Charts etc for better understanding of the data.
