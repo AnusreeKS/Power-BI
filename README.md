@@ -36,3 +36,9 @@ Created calculated tables to consolidate sales details across categories, sub ca
 Created calculated measures such as Total Sales, Total Profit, Total Quantity Sold, Avg No of Days to Ship etc for easy visualisation of key performance indicators for sales analysis.
 
 Created visualisation of certain data with Pie Charts, Donut Charts, Bar Charts etc for better understanding of the data.
+
+## Assignment 3 - Data Visualisation in Power BI
+
+Data is visualised using various charts available in Power BI. 
+
+Video explanation of the visualisation is also included.
