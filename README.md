@@ -42,3 +42,22 @@ Created visualisation of certain data with Pie Charts, Donut Charts, Bar Charts 
 Data is visualised using various charts available in Power BI. 
 
 Video explanation of the visualisation is also included.
+
+
+# Module Assignment - Covid19 Analysis 
+
+In the module assignment of PowerBi, a detailed analysis of Covid19 dataset is done using the various tools in PowerBI
+
+## DAX tables and DAX measures
+
+Created new summarized tables and measures using DAX for a comprehensive understanding of the given data.
+
+Certain given tables were summarised, and new measures were calculated to display important information for better and quick understanding of the data.
+
+## Slicer, Filters and Map
+
+Slicars and filters are used to highlight the selected data from the dataset and Map is used to get a better understanding of the geography related to the data given.
+
+## Buttons and ToolTip
+
+ Buttons are use to navigate through the report pages and ToolTip is used to display detailed information regarding a particular selected data.
