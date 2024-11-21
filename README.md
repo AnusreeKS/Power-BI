@@ -46,18 +46,21 @@ Video explanation of the visualisation is also included.
 
 # Module Assignment - Covid19 Analysis 
 
-In the module assignment of PowerBi, a detailed analysis of Covid19 dataset is done using the various tools in PowerBI
+In the module assignment of PowerBi, a detailed analysis of Covid19 dataset is done using the various tools in PowerBI. A comprehensive data visualization of the dataset offers valuable insights into the impact of the COVID-19 pandemic worldwide. 
+
 
 ## DAX tables and DAX measures
 
 Created new summarized tables and measures using DAX for a comprehensive understanding of the given data.
 
-Certain given tables were summarised, and new measures were calculated to display important information for better and quick understanding of the data.
+Certain given tables were summarised, and new measures such as recovery rate, mortality rate etc were calculated to display important information for better and quick understanding of the data.
 
 ## Slicer, Filters and Map
 
-Slicars and filters are used to highlight the selected data from the dataset and Map is used to get a better understanding of the geography related to the data given.
+Slicers and filters are used to highlight the selected data from the dataset and Map is used to show the geographical distribution of Covid19 cases across different countries and regions, providing a clear overview of highly affected areas.
 
 ## Buttons and ToolTip
 
- Buttons are use to navigate through the report pages and ToolTip is used to display detailed information regarding a particular selected data.
+ Buttons are used to navigate through the report pages and ToolTip is used to display detailed information regarding a particular selected data.
+
+ 
